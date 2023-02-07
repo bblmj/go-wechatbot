@@ -1,7 +1,6 @@
 # wechatbot
 
 > 本项目是 fork 他人的项目来进行学习和使用，请勿商用，可以下载下来做自定义的功能
-> 最近ChatGPT异常火爆，本项目可以将个人微信化身GPT机器人，
 > 项目基于[openwechat](https://github.com/eatmoreapple/openwechat) 开发。
 
 > `友链：`[chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) 本项目可以将GPT机器人集成到钉钉群聊中。
@@ -119,7 +118,7 @@ $ tail -f run.log
 
 ````
 # 获取项目
-$ git clone https://github.com/869413421/wechatbot.git
+$ git clone xxx.git
 
 # 进入项目目录
 $ cd wechatbot
